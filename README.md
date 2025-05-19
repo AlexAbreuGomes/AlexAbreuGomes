@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex de Abreu</h1>
-<h3 align="center">Coding Odyssey: A Student's Exploration in Software Development</h3>
+<h3 align="center">Turning Ideas into Code: The Journey of a Systems Developer</h3>
 
-- 🌱 I’m currently learning **Software Development,Javascript**
+- 💻 I am a **Systems Developer** with a passion for building innovative solutions.
 
 - 📫 How to reach me **alex.abreu.softwaredeveloper@gmail.com**
 
